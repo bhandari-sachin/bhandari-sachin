@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Software Engineering student** with a **Machine Learning focus**, currently building strong foundations in programming, data structures, and ML&AI concepts. I'm motivated to learn, practice, and grow through hands-on experience and internships.
+I'm a **Software Engineering student** with a **Machine Learning focus**, currently building strong foundations in programming, Full-Stack AI, data structures, and ML&AI concepts. I'm motivated to learn, practice, and grow through hands-on experience and internships.
 
 <!-- Here are some ideas to get you started:
 
