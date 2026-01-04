@@ -11,8 +11,8 @@ I'm a **Software Engineering student** with a **Machine Learning focus**, curren
 - 💬 Ask me about ... -->
 ### 📫 How to reach me
 - Email: bhandari.sachin.fi@gmail.com  
-- LinkedIn: linkedin.com/in/sbhandari-student
-- X : x.com/fi_sachin
+- LinkedIn: www.linkedin.com/in/sbhandari-student
+- X : www.x.com/fi_sachin
 
 ### 😄 Pronoun/s
 - He
